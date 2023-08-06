@@ -284,7 +284,7 @@ p{
 .header-section-btn{  
   position: relative;
   top: 70px;
-  left: 525px;
+  left: 635px;
   padding: 3px 51px 1px 51px;
   font-family: Mulish;
   font-size: 18px;
@@ -382,7 +382,7 @@ p{
 
 .customer-coments{
   padding-top: 70px;
-  padding-left: 130px;
+  padding-left: 250px;
   display: flex;
 }
 
@@ -416,7 +416,7 @@ p{
 
 .arrow-line{
   padding-top: 230px;
-  padding-left: 465px;
+  padding-left: 600px;
 }
 
 .article-elements{
@@ -434,14 +434,15 @@ p{
 }
 
 .article-lists{
+  display: flex;  
   padding-top: 72px;
-  padding-left: 40px;
-  display: flex;
+  padding-left: 160px;
   border-radius: 20px;
 }
 
 .article-items{
-  padding-left: 43px;
+  margin-left: 43px;
+  padding-bottom: 50px;
 }
 
 .article-items:hover{
@@ -484,7 +485,7 @@ p{
 .site-main-section-btn{
   position: relative;
   top: 72px;
-  left: 530px;
+  left: 660px;
   padding: 3px 65px 1px 66px;
   font-family: 'Mulish';
   font-style: normal;
